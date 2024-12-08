@@ -1,0 +1,86 @@
+﻿@using LDBeauty.Core.Models.Product
+@model AllProductsViewModel
+
+
+<partial name="_Logo" />
+
+@if (@Model.Products.Count() == 0)
+{
+    <h3 class="display-6 fw-bolder text-center" style="color:black">Product list is empty.</h3>
+}
+else
+{
+    <section class="py-5">
+        <div class="container px-4 px-lg-5">
+            <div class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
+                <div class="dropdown">
+                    <button class="btn btn-outline-dark mt-auto dropdown-toggle" type="button" id="dropdownMenuButton2" data-bs-toggle="dropdown" aria-expanded="false">
+                        Choose category
+                    </button>
+                    <ul class="dropdown-menu " aria-labelledby="dropdownMenuButton2">
+                        @foreach (var item in @Model.Categories)
+                        {
+                            <li><a class="dropdown-item" asp-action="productByCategory" asp-controller="product" asp-route-id="@item.Id">@item.CategoryName</a></li>
+                        }
+                    </ul>
+                </div>
+                <div class="dropdown">
+                    <button class="btn btn-outline-dark mt-auto dropdown-toggle" type="button" id="dropdownMenuButton2" data-bs-toggle="dropdown" aria-expanded="false">
+                        Choose brand
+                    </button>
+                    <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton2">
+                        @foreach (var item in @Model.Makes)
+                        {
+                            <li><a class="dropdown-item" asp-action="productByMake" asp-controller="product" asp-route-id="@item.Id">@item.MakeName</a></li>
+                        }
+                    </ul>
+                </div>
+                <form class="d-flex ">
+                    <input class="form-control col-auto" type="search" placeholder="Product name..." name="ProductName" aria-label="Search">
+                    <button class="btn btn-outline-dark mt-auto" type="submit" asp-action="searchByName" asp-controller="product" asp-route-id="ProductName">Search</button>
+                </form>
+            </div>
+        </div>
+    </section>
+    <section class="py-5">
+        <div class="container px-4 px-lg-5 ">
+            <div class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
+                @foreach (var product in @Model.Products)
+                {
+                    <div class="col mb-5">
+                        <div class="card h-100">
+                            <!-- Product image-->
+                    <a asp-action="details" asp-controller="product" asp-route-id="@product.Id" class="btn">
+                                <img class="card-img-top" src="@product.ProductUrl" alt="..." />
+                            </a>
+                            <!-- Product details-->
+                    <div class="card-body p-4">
+                                <div class="text-center">
+                                    <!-- Product name-->
+                            <h5 class="fw-bolder">@product.Make</h5>
+                                    <h5 class="fw-bolder">@product.ProductName</h5>
+                                    <!-- Product price-->
+                            @product.Price lv.
+                                </div>
+                                @if (product.Quantity > 0)
+                                {
+                                    <div class="text-center fw-bolder">
+                                        In Stock
+                                    </div>
+                                }
+                            </div>
+                            <!-- Product actions-->
+                    <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+                                <div class="text-center"><a asp-action="details" asp-controller="product" asp-route-id="@product.Id" class="btn btn-outline-dark mt-auto">Order</a></div>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </section>
+}
+
+
+
+
