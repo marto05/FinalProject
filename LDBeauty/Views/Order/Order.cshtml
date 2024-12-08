@@ -1,0 +1,51 @@
+﻿@using LDBeauty.Core.Models.User
+@model UserOrderViewModel
+
+
+<div class="row g-5 justify-content-center">
+    <div class="col-md-5 col-lg-4 order-md-last">
+        <h4 class="mb-3 text-center">Shiping address</h4>
+        <form  method="post">
+            <div class="row g-3">
+                <div class="col-12">
+                    <label for="firstName" asp-for="FirstName" class="form-label">First name</label>
+                    <input type="text" asp-for="FirstName" class="form-control" id="firstName" placeholder="" name="FirstName" value="@Model.FirstName" >
+                    <span asp-validation-for="FirstName" class="text-danger"></span>
+                </div>
+
+                <div class="col-12">
+                    <label for="lastName" asp-for="LastName" class="form-label">Last name</label>
+                    <input type="text" asp-for="LastName" class="form-control" id="lastName" placeholder="" name="LastName" value="@Model.LastName" >
+                    <span asp-validation-for="LastName" class="text-danger"></span>
+                </div>
+
+                <div class="col-12">
+                    <label for="phone" asp-for="Phone" class="form-label">Phone number <span class="text-muted"></span></label>
+                    <input type="text" asp-for="Phone" class="form-control" id="phone" placeholder="0123456789" name="Phone">
+                    <span asp-validation-for="Phone" class="text-danger"></span>
+                </div>
+
+                <div class="col-12">
+                    <label for="email" asp-for="Email" class="form-label">Email <span class="text-muted"></span></label>
+                    <input type="email" asp-for="Email" class="form-control" id="email" placeholder="" value="@Model.Email" name="Email">
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+
+                <div class="col-12">
+                    <label for="address" asp-for="Address" class="form-label">Address</label>
+                    <input type="text" class="form-control" asp-for="Address" id="address" placeholder="" name="Address" aria-required="true">
+                    <span asp-validation-for="Address" class="text-danger"></span>
+                </div>
+
+                 <input type="hidden" name="UserId" value="@Model.Id" />
+                  <input type="hidden" name="CartId" value="@Model.CartId" />
+            </div>
+            <hr class="my-4">
+            <button class="w-100 btn btn-primary btn-lg" alue="@Model.Id" type="submit" asp-action="finishOrder" asp-controller="order" asp-route-id="@Model.CartId" >Make an order</button>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+<partial name="_ValidationScriptsPartial" />
+}

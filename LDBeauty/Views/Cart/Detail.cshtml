@@ -1,0 +1,56 @@
+﻿@using LDBeauty.Core.Models.Cart
+@model CartDetailsViewModel
+
+<partial name="_Logo" />
+
+<body class="">
+
+    <div class="container">
+        <main>
+
+            <div class="row g-5 justify-content-center">
+                <div class="col-md-5 col-lg-5 order-md-last">
+                    @if (@Model == null || @Model.Products.Count == 0 )
+                    {
+                        <h2 class="d-flex justify-content-center mb-3">
+                            <span class="">Your cart is empty!</span>
+                        </h2>
+                        <div class="d-flex justify-content-center">
+                        <a class="btn btn-outline-dark mt-auto" asp-action="allProducts" asp-controller="product" asp-route-id="">Shop now</a>
+                        </div>
+                    }
+                    else
+                    {
+                        <h4 class="d-flex justify-content-between align-items-center mb-3">
+                            <span class="text-primary">Your cart</span>
+                            <span class="badge bg-primary rounded-pill">@Model.Products.Count()</span>
+                        </h4>
+                        <ul class="list-group mb-3">
+                            @foreach (var item in @Model.Products)
+                            {
+
+                                <li class="list-group-item d-flex justify-content-between lh-sm">
+                                    <div>
+                                        <h6 class="my-0">@item.ProductMake @item.ProductName</h6>
+                                        <small class="text-muted">Qty: @item.Quantity</small>
+                                    </div>
+                                    <span class="text-muted">@item.Price lv.</span>
+                                    <a class="btn btn-outline-danger btn-sm" asp-action="delete"  asp-controller="cart" asp-route-id="@item.Id">Delete</a>
+                                </li>
+
+                            }
+                            <li class="list-group-item d-flex justify-content-between">
+                                <span>Total (lv)</span>
+                                <strong>@Model.TotalPrice</strong>
+                            </li>
+                        </ul>
+                    
+                    <div class="text-center m-4">
+                        <a class="btn btn-outline-dark mt-auto" asp-action="order" asp-controller="order" asp-route-id="@Model.Id">Order</a>
+                        </div>
+                    }
+                </div>
+            </div>
+        </main>
+    </div>
+</body>

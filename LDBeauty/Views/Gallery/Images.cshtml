@@ -1,0 +1,27 @@
+﻿@using LDBeauty.Core.Models.Gallery
+@model List<ImageViewModel>
+
+<partial name="_Logo"/>
+
+@if(@Model.Count() == 0)
+{
+    <h3 class="display-6 fw-bolder text-center" style="color:black">Gallery is empty.</h3>
+}
+else
+{
+<section class="album py-5">
+    <div class="container">
+        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4 g-3 justify-content-center">
+            @foreach (var item in @Model)
+            {
+                <div class="col">
+                    <a asp-action="details" asp-controller="gallery" asp-route-id="@item.Id">
+                    <img src="@item.ImgUrl" width="250" height="350" @*class="img-thumbnail"*@ alt="...">
+                    </a>
+                </div>
+            }
+        </div>
+    </div>
+</section>
+}
+

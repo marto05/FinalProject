@@ -1,0 +1,44 @@
+﻿<header class="py-5">
+    <div class="container px-lg-5">
+        <div class="p-4 p-lg-5  rounded-3 text-center">
+            <div class="m-4 m-lg-5">
+                <div>
+                    <img class="img-fluid" src="../assets/logo.png" alt="logo">
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+<section class="page-section" id="services">
+    <div class="container">
+        <div class="row text-center">
+            <div class="col-md-4">
+                <a asp-action="images" asp-controller="gallery" class="btn btn-outline-dark">
+                    <span class="fa-stack fa-3x">
+                        <i class="fas fa-photo-video"></i>
+                    </span>
+                </a>
+                <h4 class="my-3">GALLERY</h4>
+                <p class="text-muted">Looking for insparation?</p>
+            </div>
+            <div class="col-md-4">
+                <a asp-action="allProducts" asp-controller="product" class="btn btn-outline-dark">
+                    <span class="fa-stack fa-3x">
+                        <i class="fas fa-cart-arrow-down"></i>
+                    </span>
+                </a>
+                <h4 class="my-3">PRODUCTS</h4>
+                <p class="text-muted">Find the best for your hair.</p>
+            </div>
+            <div class="col-md-4">
+                <a asp-action="info" asp-controller="myLd" class="btn btn-outline-dark">
+                    <span class="fa-stack fa-3x">
+                        <i class="fas fa-house-user"></i>
+                    </span>
+                </a>
+                <h4 class="my-3">MyLD</h4>
+                <p class="text-muted">Orders, favourites and many more...</p>
+            </div>
+        </div>
+    </div>
+</section>
