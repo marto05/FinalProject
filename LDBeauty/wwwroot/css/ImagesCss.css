@@ -1,0 +1,14 @@
+﻿.image-container {
+    width: 300px; /* Set desired width */
+    height: 200px; /* Set desired height */
+    overflow: hidden; /* Crop overflowing parts of the image */
+    position: relative;
+}
+
+    .image-container img {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%); /* Center the image */
+        min-width: 100%; /* Ensure the image fills the width */
+        min-height: 100%; /* Ensure the image fills the height */

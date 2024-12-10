@@ -70,7 +70,7 @@ namespace LDBeauty.Controllers
 
                 cache.Set(allProductsCacheKey, products, cacheOptions);
             }
-
+          
             return View(products);
         }
 

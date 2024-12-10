@@ -1,0 +1,441 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F3FADD2-78B3-4FF8-BB0E-0420A6C5258D}|LDBeauty.Infrastructure\\LDBeauty.Infrastructure.csproj|d:\\downloads\\ld-beauty-web-app-main\\ld-beauty-web-app-main\\ldbeauty.infrastructure\\migrations\\20241208194026_updateproducturlinproducttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F3FADD2-78B3-4FF8-BB0E-0420A6C5258D}|LDBeauty.Infrastructure\\LDBeauty.Infrastructure.csproj|solutionrelative:ldbeauty.infrastructure\\migrations\\20241208194026_updateproducturlinproducttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F3FADD2-78B3-4FF8-BB0E-0420A6C5258D}|LDBeauty.Infrastructure\\LDBeauty.Infrastructure.csproj|d:\\downloads\\ld-beauty-web-app-main\\ld-beauty-web-app-main\\ldbeauty.infrastructure\\migrations\\20241208190801_seeddatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F3FADD2-78B3-4FF8-BB0E-0420A6C5258D}|LDBeauty.Infrastructure\\LDBeauty.Infrastructure.csproj|solutionrelative:ldbeauty.infrastructure\\migrations\\20241208190801_seeddatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F3FADD2-78B3-4FF8-BB0E-0420A6C5258D}|LDBeauty.Infrastructure\\LDBeauty.Infrastructure.csproj|d:\\downloads\\ld-beauty-web-app-main\\ld-beauty-web-app-main\\ldbeauty.infrastructure\\migrations\\20241208190510_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F3FADD2-78B3-4FF8-BB0E-0420A6C5258D}|LDBeauty.Infrastructure\\LDBeauty.Infrastructure.csproj|solutionrelative:ldbeauty.infrastructure\\migrations\\20241208190510_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty.Infrastructure\\Migrations\\20241208185524_SeedDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LDBeauty.Infrastructure\\Migrations\\20241208185524_SeedDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty.Infrastructure\\Migrations\\20241208185223_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LDBeauty.Infrastructure\\Migrations\\20241208185223_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB9F4B3E-C38A-44BB-AA60-808E396BF02F}|LDBeauty\\LDBeauty.csproj|d:\\downloads\\ld-beauty-web-app-main\\ld-beauty-web-app-main\\ldbeauty\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB9F4B3E-C38A-44BB-AA60-808E396BF02F}|LDBeauty\\LDBeauty.csproj|solutionrelative:ldbeauty\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB9F4B3E-C38A-44BB-AA60-808E396BF02F}|LDBeauty\\LDBeauty.csproj|d:\\downloads\\ld-beauty-web-app-main\\ld-beauty-web-app-main\\ldbeauty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB9F4B3E-C38A-44BB-AA60-808E396BF02F}|LDBeauty\\LDBeauty.csproj|solutionrelative:ldbeauty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA315D16-4654-4A83-96B1-BD690D5A7865}|LDBeauty.Core\\LDBeauty.Core.csproj|d:\\downloads\\ld-beauty-web-app-main\\ld-beauty-web-app-main\\ldbeauty.core\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA315D16-4654-4A83-96B1-BD690D5A7865}|LDBeauty.Core\\LDBeauty.Core.csproj|solutionrelative:ldbeauty.core\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB9F4B3E-C38A-44BB-AA60-808E396BF02F}|LDBeauty\\LDBeauty.csproj|d:\\downloads\\ld-beauty-web-app-main\\ld-beauty-web-app-main\\ldbeauty\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB9F4B3E-C38A-44BB-AA60-808E396BF02F}|LDBeauty\\LDBeauty.csproj|solutionrelative:ldbeauty\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB9F4B3E-C38A-44BB-AA60-808E396BF02F}|LDBeauty\\LDBeauty.csproj|d:\\downloads\\ld-beauty-web-app-main\\ld-beauty-web-app-main\\ldbeauty\\views\\gallery\\images.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB9F4B3E-C38A-44BB-AA60-808E396BF02F}|LDBeauty\\LDBeauty.csproj|solutionrelative:ldbeauty\\views\\gallery\\images.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB9F4B3E-C38A-44BB-AA60-808E396BF02F}|LDBeauty\\LDBeauty.csproj|d:\\downloads\\ld-beauty-web-app-main\\ld-beauty-web-app-main\\ldbeauty\\wwwroot\\css\\imagescss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CB9F4B3E-C38A-44BB-AA60-808E396BF02F}|LDBeauty\\LDBeauty.csproj|solutionrelative:ldbeauty\\wwwroot\\css\\imagescss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB9F4B3E-C38A-44BB-AA60-808E396BF02F}|LDBeauty\\LDBeauty.csproj|d:\\downloads\\ld-beauty-web-app-main\\ld-beauty-web-app-main\\ldbeauty\\controllers\\gallerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB9F4B3E-C38A-44BB-AA60-808E396BF02F}|LDBeauty\\LDBeauty.csproj|solutionrelative:ldbeauty\\controllers\\gallerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F3FADD2-78B3-4FF8-BB0E-0420A6C5258D}|LDBeauty.Infrastructure\\LDBeauty.Infrastructure.csproj|d:\\downloads\\ld-beauty-web-app-main\\ld-beauty-web-app-main\\ldbeauty.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F3FADD2-78B3-4FF8-BB0E-0420A6C5258D}|LDBeauty.Infrastructure\\LDBeauty.Infrastructure.csproj|solutionrelative:ldbeauty.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB9F4B3E-C38A-44BB-AA60-808E396BF02F}|LDBeauty\\LDBeauty.csproj|d:\\downloads\\ld-beauty-web-app-main\\ld-beauty-web-app-main\\ldbeauty\\views\\home\\status500.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB9F4B3E-C38A-44BB-AA60-808E396BF02F}|LDBeauty\\LDBeauty.csproj|solutionrelative:ldbeauty\\views\\home\\status500.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB9F4B3E-C38A-44BB-AA60-808E396BF02F}|LDBeauty\\LDBeauty.csproj|d:\\downloads\\ld-beauty-web-app-main\\ld-beauty-web-app-main\\ldbeauty\\views\\home\\status404.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB9F4B3E-C38A-44BB-AA60-808E396BF02F}|LDBeauty\\LDBeauty.csproj|solutionrelative:ldbeauty\\views\\home\\status404.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty.Infrastructure\\Migrations\\20241208190159_SeedDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LDBeauty.Infrastructure\\Migrations\\20241208190159_SeedDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty.Infrastructure\\Migrations\\20241205193447_seedDataBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LDBeauty.Infrastructure\\Migrations\\20241205193447_seedDataBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty.Infrastructure\\Migrations\\20241205192913_seedDataBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LDBeauty.Infrastructure\\Migrations\\20241205192913_seedDataBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F3FADD2-78B3-4FF8-BB0E-0420A6C5258D}|LDBeauty.Infrastructure\\LDBeauty.Infrastructure.csproj|d:\\downloads\\ld-beauty-web-app-main\\ld-beauty-web-app-main\\ldbeauty.infrastructure\\data\\common\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F3FADD2-78B3-4FF8-BB0E-0420A6C5258D}|LDBeauty.Infrastructure\\LDBeauty.Infrastructure.csproj|solutionrelative:ldbeauty.infrastructure\\data\\common\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB9F4B3E-C38A-44BB-AA60-808E396BF02F}|LDBeauty\\LDBeauty.csproj|d:\\downloads\\ld-beauty-web-app-main\\ld-beauty-web-app-main\\ldbeauty\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CB9F4B3E-C38A-44BB-AA60-808E396BF02F}|LDBeauty\\LDBeauty.csproj|solutionrelative:ldbeauty\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F3FADD2-78B3-4FF8-BB0E-0420A6C5258D}|LDBeauty.Infrastructure\\LDBeauty.Infrastructure.csproj|d:\\downloads\\ld-beauty-web-app-main\\ld-beauty-web-app-main\\ldbeauty.infrastructure\\data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F3FADD2-78B3-4FF8-BB0E-0420A6C5258D}|LDBeauty.Infrastructure\\LDBeauty.Infrastructure.csproj|solutionrelative:ldbeauty.infrastructure\\data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA315D16-4654-4A83-96B1-BD690D5A7865}|LDBeauty.Core\\LDBeauty.Core.csproj|d:\\downloads\\ld-beauty-web-app-main\\ld-beauty-web-app-main\\ldbeauty.core\\models\\product\\addproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA315D16-4654-4A83-96B1-BD690D5A7865}|LDBeauty.Core\\LDBeauty.Core.csproj|solutionrelative:ldbeauty.core\\models\\product\\addproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA315D16-4654-4A83-96B1-BD690D5A7865}|LDBeauty.Core\\LDBeauty.Core.csproj|d:\\downloads\\ld-beauty-web-app-main\\ld-beauty-web-app-main\\ldbeauty.core\\constants\\viewmodelconstraints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA315D16-4654-4A83-96B1-BD690D5A7865}|LDBeauty.Core\\LDBeauty.Core.csproj|solutionrelative:ldbeauty.core\\constants\\viewmodelconstraints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA315D16-4654-4A83-96B1-BD690D5A7865}|LDBeauty.Core\\LDBeauty.Core.csproj|d:\\downloads\\ld-beauty-web-app-main\\ld-beauty-web-app-main\\ldbeauty.core\\models\\gallery\\addimageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA315D16-4654-4A83-96B1-BD690D5A7865}|LDBeauty.Core\\LDBeauty.Core.csproj|solutionrelative:ldbeauty.core\\models\\gallery\\addimageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB9F4B3E-C38A-44BB-AA60-808E396BF02F}|LDBeauty\\LDBeauty.csproj|d:\\downloads\\ld-beauty-web-app-main\\ld-beauty-web-app-main\\ldbeauty\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB9F4B3E-C38A-44BB-AA60-808E396BF02F}|LDBeauty\\LDBeauty.csproj|solutionrelative:ldbeauty\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F3FADD2-78B3-4FF8-BB0E-0420A6C5258D}|LDBeauty.Infrastructure\\LDBeauty.Infrastructure.csproj|d:\\downloads\\ld-beauty-web-app-main\\ld-beauty-web-app-main\\ldbeauty.infrastructure\\migrations\\20241208194931_updatemakenameinmaketable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F3FADD2-78B3-4FF8-BB0E-0420A6C5258D}|LDBeauty.Infrastructure\\LDBeauty.Infrastructure.csproj|solutionrelative:ldbeauty.infrastructure\\migrations\\20241208194931_updatemakenameinmaketable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Images.cshtml",
+              "DocumentMoniker": "D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty\\Views\\Gallery\\Images.cshtml",
+              "RelativeDocumentMoniker": "LDBeauty\\Views\\Gallery\\Images.cshtml",
+              "ToolTip": "D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty\\Views\\Gallery\\Images.cshtml",
+              "RelativeToolTip": "LDBeauty\\Views\\Gallery\\Images.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T19:56:16.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241208194026_UpdateProductURLInProductTable.cs",
+              "DocumentMoniker": "D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty.Infrastructure\\Migrations\\20241208194026_UpdateProductURLInProductTable.cs",
+              "RelativeDocumentMoniker": "LDBeauty.Infrastructure\\Migrations\\20241208194026_UpdateProductURLInProductTable.cs",
+              "ToolTip": "D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty.Infrastructure\\Migrations\\20241208194026_UpdateProductURLInProductTable.cs",
+              "RelativeToolTip": "LDBeauty.Infrastructure\\Migrations\\20241208194026_UpdateProductURLInProductTable.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T19:40:27.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20241208190801_SeedDatabase.cs",
+              "DocumentMoniker": "D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty.Infrastructure\\Migrations\\20241208190801_SeedDatabase.cs",
+              "RelativeDocumentMoniker": "LDBeauty.Infrastructure\\Migrations\\20241208190801_SeedDatabase.cs",
+              "ToolTip": "D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty.Infrastructure\\Migrations\\20241208190801_SeedDatabase.cs",
+              "RelativeToolTip": "LDBeauty.Infrastructure\\Migrations\\20241208190801_SeedDatabase.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T19:08:02.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241208190510_InitialMigration.cs",
+              "DocumentMoniker": "D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty.Infrastructure\\Migrations\\20241208190510_InitialMigration.cs",
+              "RelativeDocumentMoniker": "LDBeauty.Infrastructure\\Migrations\\20241208190510_InitialMigration.cs",
+              "ToolTip": "D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty.Infrastructure\\Migrations\\20241208190510_InitialMigration.cs",
+              "RelativeToolTip": "LDBeauty.Infrastructure\\Migrations\\20241208190510_InitialMigration.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T19:05:10.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241208185524_SeedDatabase.cs",
+              "DocumentMoniker": "D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty.Infrastructure\\Migrations\\20241208185524_SeedDatabase.cs",
+              "RelativeDocumentMoniker": "LDBeauty.Infrastructure\\Migrations\\20241208185524_SeedDatabase.cs",
+              "ToolTip": "D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty.Infrastructure\\Migrations\\20241208185524_SeedDatabase.cs",
+              "RelativeToolTip": "LDBeauty.Infrastructure\\Migrations\\20241208185524_SeedDatabase.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T18:55:24.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241208185223_InitialMigration.cs",
+              "DocumentMoniker": "D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty.Infrastructure\\Migrations\\20241208185223_InitialMigration.cs",
+              "RelativeDocumentMoniker": "LDBeauty.Infrastructure\\Migrations\\20241208185223_InitialMigration.cs",
+              "ToolTip": "D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty.Infrastructure\\Migrations\\20241208185223_InitialMigration.cs",
+              "RelativeToolTip": "LDBeauty.Infrastructure\\Migrations\\20241208185223_InitialMigration.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T18:52:23.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty\\Program.cs",
+              "RelativeDocumentMoniker": "LDBeauty\\Program.cs",
+              "ToolTip": "D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty\\Program.cs",
+              "RelativeToolTip": "LDBeauty\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEUAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T18:50:21.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty.Core\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "LDBeauty.Core\\Services\\ProductService.cs",
+              "ToolTip": "D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty.Core\\Services\\ProductService.cs",
+              "RelativeToolTip": "LDBeauty.Core\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T20:21:09.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "LDBeauty\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "LDBeauty\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowEgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T20:17:04.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241205193447_seedDataBase.cs",
+              "DocumentMoniker": "D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty.Infrastructure\\Migrations\\20241205193447_seedDataBase.cs",
+              "RelativeDocumentMoniker": "LDBeauty.Infrastructure\\Migrations\\20241205193447_seedDataBase.cs",
+              "ToolTip": "D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty.Infrastructure\\Migrations\\20241205193447_seedDataBase.cs",
+              "RelativeToolTip": "LDBeauty.Infrastructure\\Migrations\\20241205193447_seedDataBase.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T19:34:47.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LDBeauty\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LDBeauty\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T19:14:38.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20241208194931_UpdateMakeNameInMakeTable.cs",
+              "DocumentMoniker": "D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty.Infrastructure\\Migrations\\20241208194931_UpdateMakeNameInMakeTable.cs",
+              "RelativeDocumentMoniker": "LDBeauty.Infrastructure\\Migrations\\20241208194931_UpdateMakeNameInMakeTable.cs",
+              "ToolTip": "D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty.Infrastructure\\Migrations\\20241208194931_UpdateMakeNameInMakeTable.cs",
+              "RelativeToolTip": "LDBeauty.Infrastructure\\Migrations\\20241208194931_UpdateMakeNameInMakeTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T19:49:31.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ImagesCss.css",
+              "DocumentMoniker": "D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty\\wwwroot\\css\\ImagesCss.css",
+              "RelativeDocumentMoniker": "LDBeauty\\wwwroot\\css\\ImagesCss.css",
+              "ToolTip": "D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty\\wwwroot\\css\\ImagesCss.css",
+              "RelativeToolTip": "LDBeauty\\wwwroot\\css\\ImagesCss.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-08T19:59:54.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GalleryController.cs",
+              "DocumentMoniker": "D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty\\Controllers\\GalleryController.cs",
+              "RelativeDocumentMoniker": "LDBeauty\\Controllers\\GalleryController.cs",
+              "ToolTip": "D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty\\Controllers\\GalleryController.cs",
+              "RelativeToolTip": "LDBeauty\\Controllers\\GalleryController.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAIAwwJQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:51:03.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty.Infrastructure\\Data\\Common\\Repository.cs",
+              "RelativeDocumentMoniker": "LDBeauty.Infrastructure\\Data\\Common\\Repository.cs",
+              "ToolTip": "D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty.Infrastructure\\Data\\Common\\Repository.cs",
+              "RelativeToolTip": "LDBeauty.Infrastructure\\Data\\Common\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T20:25:19.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "LDBeauty.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "LDBeauty.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T19:24:17.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Status404.cshtml",
+              "DocumentMoniker": "D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty\\Views\\Home\\Status404.cshtml",
+              "RelativeDocumentMoniker": "LDBeauty\\Views\\Home\\Status404.cshtml",
+              "ToolTip": "D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty\\Views\\Home\\Status404.cshtml",
+              "RelativeToolTip": "LDBeauty\\Views\\Home\\Status404.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T19:15:44.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Status500.cshtml",
+              "DocumentMoniker": "D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty\\Views\\Home\\Status500.cshtml",
+              "RelativeDocumentMoniker": "LDBeauty\\Views\\Home\\Status500.cshtml",
+              "ToolTip": "D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty\\Views\\Home\\Status500.cshtml",
+              "RelativeToolTip": "LDBeauty\\Views\\Home\\Status500.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T19:20:04.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20241205192913_seedDataBase.cs",
+              "DocumentMoniker": "D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty.Infrastructure\\Migrations\\20241205192913_seedDataBase.cs",
+              "RelativeDocumentMoniker": "LDBeauty.Infrastructure\\Migrations\\20241205192913_seedDataBase.cs",
+              "ToolTip": "D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty.Infrastructure\\Migrations\\20241205192913_seedDataBase.cs",
+              "RelativeToolTip": "LDBeauty.Infrastructure\\Migrations\\20241205192913_seedDataBase.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T19:29:13.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241208190159_SeedDatabase.cs",
+              "DocumentMoniker": "D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty.Infrastructure\\Migrations\\20241208190159_SeedDatabase.cs",
+              "RelativeDocumentMoniker": "LDBeauty.Infrastructure\\Migrations\\20241208190159_SeedDatabase.cs",
+              "ToolTip": "D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty.Infrastructure\\Migrations\\20241208190159_SeedDatabase.cs",
+              "RelativeToolTip": "LDBeauty.Infrastructure\\Migrations\\20241208190159_SeedDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T19:01:59.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty\\appsettings.json",
+              "RelativeDocumentMoniker": "LDBeauty\\appsettings.json",
+              "ToolTip": "D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty\\appsettings.json",
+              "RelativeToolTip": "LDBeauty\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T11:51:16.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AddImageViewModel.cs",
+              "DocumentMoniker": "D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty.Core\\Models\\Gallery\\AddImageViewModel.cs",
+              "RelativeDocumentMoniker": "LDBeauty.Core\\Models\\Gallery\\AddImageViewModel.cs",
+              "ToolTip": "D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty.Core\\Models\\Gallery\\AddImageViewModel.cs",
+              "RelativeToolTip": "LDBeauty.Core\\Models\\Gallery\\AddImageViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:51:03.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ViewModelConstraints.cs",
+              "DocumentMoniker": "D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty.Core\\Constants\\ViewModelConstraints.cs",
+              "RelativeDocumentMoniker": "LDBeauty.Core\\Constants\\ViewModelConstraints.cs",
+              "ToolTip": "D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty.Core\\Constants\\ViewModelConstraints.cs",
+              "RelativeToolTip": "LDBeauty.Core\\Constants\\ViewModelConstraints.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:51:03.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AddProductViewModel.cs",
+              "DocumentMoniker": "D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty.Core\\Models\\Product\\AddProductViewModel.cs",
+              "RelativeDocumentMoniker": "LDBeauty.Core\\Models\\Product\\AddProductViewModel.cs",
+              "ToolTip": "D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty.Core\\Models\\Product\\AddProductViewModel.cs",
+              "RelativeToolTip": "LDBeauty.Core\\Models\\Product\\AddProductViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:51:03.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty.Infrastructure\\Data\\Product.cs",
+              "RelativeDocumentMoniker": "LDBeauty.Infrastructure\\Data\\Product.cs",
+              "ToolTip": "D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty.Infrastructure\\Data\\Product.cs",
+              "RelativeToolTip": "LDBeauty.Infrastructure\\Data\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:51:03.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "LDBeauty\\Views\\Product\\Details.cshtml",
+              "ToolTip": "D:\\downloads\\LD-Beauty-Web-App-main\\LD-Beauty-Web-App-main\\LDBeauty\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "LDBeauty\\Views\\Product\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T11:51:03.984Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

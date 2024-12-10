@@ -30,9 +30,17 @@ namespace LDBeauty.Controllers
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
+        public IActionResult Error(int statusCode)
         {
-            return View(new OldErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+            switch (statusCode)
+            {
+                case 404:
+                    return View("Status404");
+                case 500:
+                    return View("Status500");
+                default:
+                    return View("Status500");
+            }
         }
     }
 }

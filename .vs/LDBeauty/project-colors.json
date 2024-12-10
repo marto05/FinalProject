@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cb9f4b3e-c38a-44bb-aa60-808e396bf02f": {
+      "ProjectGuid": "cb9f4b3e-c38a-44bb-aa60-808e396bf02f",
+      "DisplayName": "LDBeauty",
+      "ColorIndex": 0
+    },
+    "7f3fadd2-78b3-4ff8-bb0e-0420a6c5258d": {
+      "ProjectGuid": "7f3fadd2-78b3-4ff8-bb0e-0420a6c5258d",
+      "DisplayName": "LDBeauty.Infrastructure",
+      "ColorIndex": 1
+    },
+    "ca315d16-4654-4a83-96b1-bd690d5a7865": {
+      "ProjectGuid": "ca315d16-4654-4a83-96b1-bd690d5a7865",
+      "DisplayName": "LDBeauty.Core",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "6043906e-ff25-4926-84e1-00a4acb50525": {
+      "ProjectGuid": "6043906e-ff25-4926-84e1-00a4acb50525",
+      "DisplayName": "LDBeauty.Test",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
